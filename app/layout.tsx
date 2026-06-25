@@ -10,7 +10,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'PT. Usaha Baru Gemilang Transportasi | Smart Logistics Solutions',
+  title: 'PT. MU Trans| Smart Logistics Solutions',
   description: 'Reliable freight, courier, trucking, and international shipping solutions powered by technology and operational excellence across Indonesia and beyond.',
   generator: 'v0.app',
   icons: {

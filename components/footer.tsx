@@ -15,10 +15,10 @@ export default function Footer() {
               <div className="h-10 w-10 rounded-2xl bg-primary flex items-center justify-center text-primary-foreground">
                 <Truck className="h-5 w-5" />
               </div>
-              <span className="font-bold text-lg">MU Trans</span>
+              <span className="font-bold text-lg">Friz Logistics Indonesia</span>
             </div>
             <p className="text-white/70 text-sm leading-relaxed">
-              PT. MU Trans Transportasi – Your trusted logistics partner across Indonesia and beyond.
+              PT. FRIZ LOGISTICS INDONESIA – Your trusted logistics partner across Indonesia and beyond.
             </p>
           </div>
 

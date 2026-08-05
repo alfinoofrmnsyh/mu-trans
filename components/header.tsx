@@ -38,8 +38,8 @@ export default function Header() {
             <Truck className="h-5 w-5" />
           </span>
           <span className="flex flex-col leading-tight">
-            <span className="text-base font-bold text-foreground">MU Trans</span>
-            <span className="text-xs text-muted-foreground">Transportasi</span>
+            <span className="text-base font-bold text-foreground">FRIZ LOGISTICS</span>
+            <span className="text-xs text-muted-foreground">INDONESIA</span>
           </span>
         </a>
 
